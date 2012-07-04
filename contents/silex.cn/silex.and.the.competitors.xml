@@ -1,0 +1,239 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="2" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">333.5</y>
+						<x type="Integer">-37</x>
+						<alpha type="Integer">100</alpha>
+						<playerName>silexandcompetitorsdiagram</playerName>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>new page name</iconPageName>
+						<descriptionText>Silex &amp; its competitors diagramcomplexity/time/skills depending on the tool and the type of publicationEn x publication type  flash template  showcase site  showcase w/ rich media  interactive showcase  catalog (&gt;50 pages)  catalog w/ rich media  dynamic site  online shop  desktop widget  web application  desktop applicationEn y  complexity/time/skills in %value &gt; 100% means &quot;not appropriate&quot;-------------------------------------------------------------efficiency  depending on the tool and the type of publicationnegative values means &quot;not appropriate&quot;publication typeefficiency in %</descriptionText>
+						<scale type="Integer">100</scale>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode>none</scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">502</height>
+						<width type="Integer">793</width>
+						<clickable type="Boolean">true</clickable>
+						<url>media/silex/silex.and.competitors.diagram.png</url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/Geometry.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Geometry</html5Url>
+					<className>org.silex.ui.BitmapCircle</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">310.5</y>
+						<x type="Integer">-50</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Float">563.35</height>
+						<width type="Float">797.95</width>
+						<playerName>webdesign_geometry</playerName>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>new page name</iconPageName>
+						<miterLimit type="Integer">3</miterLimit>
+						<jointStyle>round</jointStyle>
+						<capsStyle>none</capsStyle>
+						<noScale>normal</noScale>
+						<pixelHinting type="Boolean">true</pixelHinting>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<fusionMode>normal</fusionMode>
+						<dropShadowBlurY type="Integer">0</dropShadowBlurY>
+						<dropShadowBlurX type="Integer">0</dropShadowBlurX>
+						<dropShadowAngle type="Integer">0</dropShadowAngle>
+						<dropShadowDistance type="Integer">5</dropShadowDistance>
+						<dropShadowColor type="Integer">0</dropShadowColor>
+						<dropShadowAlpha type="Integer">1</dropShadowAlpha>
+						<dropShadow type="Boolean">false</dropShadow>
+						<gradientRotation type="Integer">0</gradientRotation>
+						<gradientRatio type="Array">
+							<item type="Integer">0</item>
+							<item type="Integer">255</item>
+						</gradientRatio>
+						<gradientAlpha type="Array">
+							<item>100</item>
+							<item>0</item>
+						</gradientAlpha>
+						<gradientColors type="Array">
+							<item>FF6600</item>
+							<item>E31280</item>
+						</gradientColors>
+						<bitmapFillRepeat type="Boolean">true</bitmapFillRepeat>
+						<bitmapFillUrl>media/logosilex.jpg</bitmapFillUrl>
+						<bgColor type="Integer">13421772</bgColor>
+						<bgAlpha type="Integer">100</bgAlpha>
+						<borderAlpha type="Integer">100</borderAlpha>
+						<lineThickness type="Integer">0</lineThickness>
+						<borderColor type="Integer">16711680</borderColor>
+						<border type="Boolean">false</border>
+						<BLcornerRadius type="Integer">0</BLcornerRadius>
+						<BRcornerRadius type="Integer">0</BRcornerRadius>
+						<TRcornerRadius type="Integer">5</TRcornerRadius>
+						<TLcornerRadius type="Integer">5</TLcornerRadius>
+						<shape>Rectangle</shape>
+						<bitmapFillSmooth type="Boolean">false</bitmapFillSmooth>
+						<fill>solid</fill>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.GIF</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">875</y>
+						<x type="Integer">789</x>
+						<alpha type="Integer">100</alpha>
+						<playerName>footer</playerName>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">false</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>new page name</iconPageName>
+						<scale type="Integer">98</scale>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode>none</scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Float">63.7</height>
+						<width type="Float">63.7</width>
+						<clickable type="Boolean">false</clickable>
+						<url>media/logosilex.jpg</url>
+					</properties>
+					<actions>
+						<action>
+							<functionName>bg_geometry.height=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>bg_gradient_geometry.height=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_text._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_bg._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element1._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element2._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element3._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element4._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element5._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element6._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element7._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element8._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element9._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element10._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element11._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element12._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element13._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element14._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_element15._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+						<action>
+							<functionName>footer_geo._y=&lt;&lt;footer._y&gt;&gt;</functionName>
+							<modifier>onLoad</modifier>
+							<parameters></parameters>
+						</action>
+					</actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>

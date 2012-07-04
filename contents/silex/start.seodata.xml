@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>start</title>
+		<pubDate>Wed Jun 27 15:04:50 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>render02</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="render02" src="../../media/render-02.png">]]></htmlEquivalent>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

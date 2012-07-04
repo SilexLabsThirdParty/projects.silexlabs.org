@@ -1,0 +1,248 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="5" id="fade">
+			<components>
+				<component>
+					<as2Url>media/silex/components/button.cmp.swf</as2Url>
+					<properties>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">262</y>
+						<x type="Integer">7</x>
+						<alpha type="Integer">100</alpha>
+						<iconIsDefault type="Boolean">true</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>Silex and the competitors</iconPageName>
+						<playerName>Diagram_button</playerName>
+						<height type="Integer">30</height>
+						<width type="Float">188.05</width>
+						<label>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Silex and the competitors&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</label>
+						<imageUrl>media/</imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<centeredHoriz type="Boolean">false</centeredHoriz>
+						<buttonLabelNormal>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#B5BBBB&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Silex and the competitors&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelNormal>
+						<buttonLabelSelect>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Silex and the competitors&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelSelect>
+						<buttonLabelOver>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Silex and the competitors&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelOver>
+						<buttonLabelPress>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Silex and the competitors&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelPress>
+						<autoSize type="Boolean">true</autoSize>
+						<wordWrap type="Boolean">false</wordWrap>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.GIF</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">255</y>
+						<x type="Integer">0</x>
+						<alpha type="Integer">100</alpha>
+						<playerName>white_horizontal_stroke</playerName>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>new page name</iconPageName>
+						<scale type="Integer">100</scale>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode>none</scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">1</height>
+						<width type="Float">718.1</width>
+						<clickable type="Boolean">true</clickable>
+						<url>media/silex/design/white_horizontal_stroke.swf</url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">205</y>
+						<x type="Integer">-5</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">60</height>
+						<width type="Integer">730</width>
+						<playerName>what_can_silex_do_title</playerName>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>new page name</iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type>dynamic</type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">false</selectable>
+						<scrollBarWidth type="Integer">16</scrollBarWidth>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;40&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;What can Silex do ?&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>media/silex/components/button.cmp.swf</as2Url>
+					<properties>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">262</y>
+						<x type="Integer">329</x>
+						<alpha type="Integer">100</alpha>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>dynamics.sites.development</iconPageName>
+						<playerName>Dynamics_sites_button</playerName>
+						<height type="Integer">30</height>
+						<width type="Float">188.05</width>
+						<label>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#B5BBBB&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Dynamic sites development&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</label>
+						<imageUrl>media/</imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<centeredHoriz type="Boolean">false</centeredHoriz>
+						<buttonLabelNormal>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#B5BBBB&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Dynamic sites development&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelNormal>
+						<buttonLabelSelect>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Dynamic sites development&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelSelect>
+						<buttonLabelOver>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Dynamic sites development&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelOver>
+						<buttonLabelPress>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Dynamic sites development&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelPress>
+						<autoSize type="Boolean">true</autoSize>
+						<wordWrap type="Boolean">false</wordWrap>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>media/silex/components/button.cmp.swf</as2Url>
+					<properties>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">262</y>
+						<x type="Integer">214</x>
+						<alpha type="Integer">100</alpha>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>web.design</iconPageName>
+						<playerName>Web_design_button</playerName>
+						<height type="Integer">30</height>
+						<width type="Float">83.2</width>
+						<label>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#B5BBBB&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Web design&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</label>
+						<imageUrl>media/</imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<centeredHoriz type="Boolean">false</centeredHoriz>
+						<buttonLabelNormal>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#B5BBBB&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Web design&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelNormal>
+						<buttonLabelSelect>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Web design&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelSelect>
+						<buttonLabelOver>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Web design&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelOver>
+						<buttonLabelPress>&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;_sans&quot; SIZE=&quot;15&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Web design&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;</buttonLabelPress>
+						<autoSize type="Boolean">true</autoSize>
+						<wordWrap type="Boolean">false</wordWrap>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/Geometry.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Geometry</html5Url>
+					<className>org.silex.ui.BitmapCircle</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">200</y>
+						<x type="Integer">-474</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">675</height>
+						<width type="Integer">2000</width>
+						<playerName>main</playerName>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName>minimal.swf</iconLayoutName>
+						<iconPageName>new page name</iconPageName>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<fusionMode>difference</fusionMode>
+						<dropShadowBlurY type="Integer">0</dropShadowBlurY>
+						<dropShadowBlurX type="Integer">0</dropShadowBlurX>
+						<dropShadowAngle type="Integer">0</dropShadowAngle>
+						<dropShadowDistance type="Integer">5</dropShadowDistance>
+						<dropShadowColor type="Integer">0</dropShadowColor>
+						<dropShadowAlpha type="Integer">1</dropShadowAlpha>
+						<dropShadow type="Boolean">false</dropShadow>
+						<gradientRotation type="Integer">90</gradientRotation>
+						<gradientRatio type="Array">
+							<item>1</item>
+							<item>125</item>
+							<item>255</item>
+							<item>255</item>
+							<item>255</item>
+						</gradientRatio>
+						<gradientAlpha type="Array">
+							<item>100</item>
+							<item>100</item>
+							<item>100</item>
+							<item>100</item>
+							<item>100</item>
+						</gradientAlpha>
+						<gradientColors type="Array">
+							<item>0x870090</item>
+							<item>0xFF9400</item>
+							<item>0xCC0033</item>
+							<item>0xFF9400</item>
+							<item>0x870090</item>
+						</gradientColors>
+						<bitmapFillRepeat type="Boolean">false</bitmapFillRepeat>
+						<bgColor type="Integer">65280</bgColor>
+						<bgAlpha type="Integer">100</bgAlpha>
+						<borderAlpha type="Integer">100</borderAlpha>
+						<lineThickness type="Integer">1</lineThickness>
+						<borderColor type="Integer">16711680</borderColor>
+						<border type="Boolean">false</border>
+						<BLcornerRadius type="Integer">0</BLcornerRadius>
+						<BRcornerRadius type="Integer">0</BRcornerRadius>
+						<TRcornerRadius type="Integer">0</TRcornerRadius>
+						<TLcornerRadius type="Integer">0</TLcornerRadius>
+						<shape>Rectangle</shape>
+						<bitmapFillSmooth type="Boolean">false</bitmapFillSmooth>
+						<fill>linear</fill>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>
