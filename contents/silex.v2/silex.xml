@@ -1,4 +1,4 @@
-﻿<layer>
+<layer>
 	<subLayers>
 		<subLayer zIndex="93" id="fade">
 			<components>
@@ -1143,7 +1143,7 @@
 							<functionName><![CDATA[openUrl]]></functionName>
 							<modifier><![CDATA[onRelease]]></modifier>
 							<parameters>
-								<parameter><![CDATA[http://www.arvixe.com/2933-265-1-395.html]]></parameter>
+								<parameter><![CDATA[http://www.arvixe.com/2933-265-1-284.html]]></parameter>
 								<parameter><![CDATA[_blank]]></parameter>
 							</parameters>
 						</action>
