@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /projects-silex-site-dynamic/
+Sitemap: /sitemap_index.xml
